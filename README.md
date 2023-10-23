@@ -10,9 +10,9 @@ Bem-vindo ao **JSGame Detona Ralph**, um projeto de jogo desenvolvido por Abner.
 
 ### 🛠️ Tecnologias Utilizadas
 
-- HTML5 e CSS3 para a estrutura e aparência do jogo.
-- JavaScript para a lógica de programação e interatividade.
-- Sprites e imagens customizadas para criar a estética única do universo de Detona Ralph.
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26)
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E)
 
 ### 🚀 Funcionalidades Incríveis
 
