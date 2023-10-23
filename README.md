@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🚀 Awesome JSGame Detona Ralph 🕹️</h1>
   <p>Um jogo incrível baseado em "Detona Ralph" em JavaScript.</p>
-  <img src="https://github.com/digitalinnovationone/jsgame-detona-ralph/raw/main/assets/images/logo.png" alt="JSGame Detona Ralph Logo">
+ Projeto Finalizado (https://detona-ralp-fox-379789.netlify.app/)
 </div>
 
 ## 📖 Sobre o Projeto
