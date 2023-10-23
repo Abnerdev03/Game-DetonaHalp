@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>🚀 Game Detona Ralph 🕹️</h1>
+  <h1>🚀 Awesome JSGame Detona Ralph 🕹️</h1>
   <p>Um jogo incrível baseado em "Detona Ralph" em JavaScript.</p>
-  <link src="https://detona-ralp-fox-379789.netlify.app/">
+  <img src="https://github.com/digitalinnovationone/jsgame-detona-ralph/raw/main/assets/images/logo.png" alt="JSGame Detona Ralph Logo">
 </div>
 
 ## 📖 Sobre o Projeto
@@ -13,6 +13,8 @@ Bem-vindo ao **JSGame Detona Ralph**, um projeto de jogo desenvolvido por Abner.
 - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26)
 - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E)
+
+- Sprites e imagens customizadas para criar a estética única do universo de Detona Ralph.
 
 ### 🚀 Funcionalidades Incríveis
 
@@ -36,4 +38,5 @@ Este jogo foi desenvolvido por Abner como parte de um projeto educacional da Dig
 
 ---
 
-Divirta-se jogando o **Game Detona Ralph** enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Lembre-se de conferir o repositório original https://detona-ralp-fox-379789.netlify.app/ e deixar uma ⭐️ se você gostou do projeto!
+Divirta-se jogando o **JSGame Detona Ralph** enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Lembre-se de conferir o repositório original [aqui](https://github.com/digitalinnovationone/jsgame-detona-ralph) e deixar uma ⭐️ se você gostou do projeto!
+
